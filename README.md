@@ -1,4 +1,4 @@
--- Hi! Nice to see you here!
+# Hi! Nice to see you here!
 
 <!---
 charlesreitz/charlesreitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
